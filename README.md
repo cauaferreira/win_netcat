@@ -1,3 +1,3 @@
 NetCat for Windows
 
-32bit and 64bit versions
+32 and 64 bits versions
